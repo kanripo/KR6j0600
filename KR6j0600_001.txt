@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:01.713795
+#+DATE: 2015-08-30 20:36:01.947774
 #+TITLE: 百千印陀羅尼經
 #+PROPERTY: CBETA_ID T21n1369b
 #+PROPERTY: ID KR6j0600
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1369b
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0600_T_000-0886a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0600_T_001-0886a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 百千印陀羅尼經¶
+百千印陀羅尼經¶
 ¶
 唐于闐三藏實叉難陀譯¶
 
